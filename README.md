@@ -8,7 +8,7 @@ This project serves as an issue tracker and support hub for Mazles and **does no
 
 _"Sounds like a disease - plays with ease!"_
 
-![Mazles game board](images/game_board.png)
+![Mazles game board](images/game_board.PNG)
 
 Mazles is a simple but fun, relaxing yet challenging maze game. Tap on tiles to rotate them in order to connect the Start and Finish tiles. There are a variety of game modes and difficulties for players of all skill levels! Harder difficulties will increase the size of the maze while limiting the types of tiles that are generated, forcing you to be a bit more careful with your path...
 
